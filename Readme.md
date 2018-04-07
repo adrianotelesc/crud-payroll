@@ -29,13 +29,13 @@ $ make
 $ sudo make install 
 ```
 
-​In Ubuntu or others derivatives of Debian we can use the comand: 
+​In Ubuntu or others derivatives of Debian we can use this comand: 
 
 ```shell
 $ sudo apt-get install open-cobol
 ```
 
-Para testar se o compilador está funcionando basta usar o comando: 
+For to test if the compiler is working, use this comand: 
 
 ```shell
 $ cobc -V
