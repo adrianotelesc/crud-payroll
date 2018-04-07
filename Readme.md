@@ -1,6 +1,6 @@
 # CRUD - Payroll (2016)
 
-This is a college work introduced in the PPL discipline (Paradigms of Programming Languages) whose objective is to demonstrate the use of the COBOL language in business software. For this, a small CRUD financial management software was developed, capable of calculating a payroll following the labor laws in 2016 (Brazil).
+This is a college work introduced in the PPL discipline (Paradigms of Programming Languages) whose objective is to demonstrate the use of the COBOL language in business software. A small CRUD financial management software was developed, capable of calculating a payroll following the labor laws in 2016 (Brazil).
 
 ## Setup
 
@@ -35,7 +35,7 @@ $ sudo make install
 $ sudo apt-get install open-cobol
 ```
 
-For to test if the compiler is working, use this comand: 
+To test if the compiler is working, use this comand: 
 
 ```shell
 $ cobc -V
